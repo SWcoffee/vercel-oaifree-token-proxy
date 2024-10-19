@@ -3,7 +3,7 @@
 	"rewrites": [
 		{
 			"source": "/(.*)",
-			"destination": "https://new.oaifree.com/$1"
+			"destination": "https://token.oaifree.com/$1"
 		}
 	]
 }
